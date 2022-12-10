@@ -5,15 +5,15 @@
 # Site
 title: Phys2Phys的笔记
 subtitle: ''
-description: ''
+description: 日常读书、问题解决方法记录
 keywords:
-author: Phys2Phys
-language: chinese
+author: W-C Li
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://Phys2Phys.github.io
+url: https://Phys2Phys.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
